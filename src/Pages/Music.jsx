@@ -269,11 +269,11 @@ class Music extends React.Component{
             </div>
             <div className={classes.item}>
               <img src={'/static/img/album.jpg'} className={classes.item_img}/>
-              <p className={classes.song_name}>5.Artist name - Song name</p>
+              <p className={classes.song_name}>5.Artist name - Song title</p>
             </div>
             <div className={classes.item}>
               <img src={'/static/img/album.jpg'} className={classes.item_img}/>
-              <p className={classes.song_name}>6.Artist name - Song name</p>
+              <p className={classes.song_name}>6.Artist name - Song title</p>
             </div>
 
           </div>

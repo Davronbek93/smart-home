@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactHowler from 'react-howler';
-//import JsMediaTags from 'jsmediatags';
 import raf from 'raf';
 import injectSheet from 'react-jss';
 
